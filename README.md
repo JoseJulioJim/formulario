@@ -2,6 +2,6 @@
 
 Parcial 3 Práctica 5
 
-[Github Pages]()
+[Github Pages](https://josejuliojim.github.io/formulario/)
 
 [JavaScript](funcion.js)
